@@ -24,4 +24,4 @@ Para comenzar con "Roma Contable", sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/roma-contable.git
+   https://github.com/TheAdkk/Roma-Contable.git
