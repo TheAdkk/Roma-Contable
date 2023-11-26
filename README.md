@@ -2,7 +2,7 @@
 
 ## Visión General
 
-#EQUIPO:
+## EQUIPO:
 - **Oswaldo Roman Cruz**            1220089
 
 
