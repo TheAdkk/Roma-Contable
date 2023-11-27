@@ -3,7 +3,7 @@
 ## Visión General
 
 ## EQUIPO:
-- **Oswaldo Roman Cruz**            1220089
+- **Oswaldo Roman Cruz**            1220089   (TheAdkk)
 - **Juan José Verde Gutiérrez**     1220093
 - **Israel Zaragoza Renteria**      1220033
 
